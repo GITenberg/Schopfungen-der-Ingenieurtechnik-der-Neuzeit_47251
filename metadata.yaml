@@ -1,0 +1,22 @@
+_repo: Schopfungen-der-Ingenieurtechnik-der-Neuzeit_47251
+creator:
+  author:
+    agent_name: Geitel, Max
+    birthdate: 1853
+    deathdate: 1926
+    gutenberg_agent_id: '44210'
+    url: http://www.gutenberg.org/2009/agents/44210
+description: ''
+gutenberg_issued: '2014-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47251'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Aus Natur und Geisteswelt, 28 Band
+subjects:
+- !lcsh 'Engineering'
+title: Schöpfungen der Ingenieurtechnik der Neuzeit
+url: http://www.gutenberg.org/ebooks/47251
