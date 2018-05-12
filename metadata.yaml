@@ -1,4 +1,8 @@
 _repo: Schopfungen-der-Ingenieurtechnik-der-Neuzeit_47251
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47251-h/images/cover.jpg
 creator:
   author:
     agent_name: Geitel, Max
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44210'
     url: http://www.gutenberg.org/2009/agents/44210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47251#Schopfungen-der-Ingenieurtechnik-der-Neuzeit
 gutenberg_issued: '2014-10-31'
 gutenberg_type: Text
 identifiers:
